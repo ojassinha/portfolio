@@ -21,7 +21,7 @@ import Avatar from 'material-ui/Avatar';
 import profilePic from './profile.jpg';
 import Card from 'material-ui/Card';
 import { Document ,Page } from 'react-pdf/build/entry.webpack';
-import resume from './ResumeNew.pdf';
+import resume from './Resume.pdf';
 import Skills from './Components/Skills';
 import {GridList, GridTile} from 'material-ui/GridList';
 import ActionGrade from 'material-ui/svg-icons/action/grade';
